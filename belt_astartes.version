@@ -1,0 +1,15 @@
+{
+    "masterVersionFile":"https://raw.githubusercontent.com/SirBeltsasar/AstartesMinipack/refs/heads/main/belt_astartes.version",
+    "modName":"Astartes Minipack",
+    "modThreadId":36004,
+    "modVersion":
+    {
+        "major":1,
+        "minor":0,
+        "patch":0
+    },
+
+    "directDownloadURL":"https://drive.google.com/uc?export=download&id=1ANiXX8vidc9fZZAhuo2cMJk2tk-ZtnTd",
+
+    "changelogURL":"https://raw.githubusercontent.com/SirBeltsasar/AstartesMinipack/refs/heads/main/changelog.txt"
+}
