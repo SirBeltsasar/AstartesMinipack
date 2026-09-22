@@ -1,0 +1,83 @@
+{
+    "displayName": "Standard",
+    "fluxCapacitors": 32,
+    "fluxVents": 45,
+    "goalVariant": true,
+    "hullId": "belt_battlebarge_luddic",
+    "hullMods": [
+        "armoredweapons",
+        "auxiliarythrusters",
+        "missleracks",
+        "reinforcedhull",
+        "targetingunit",
+    ],
+    "permaMods": [],
+    "sMods": [],
+    "suppressedMods": [],
+    "variantId": "belt_battlebarge_luddic_Standard",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0001": "mark9",
+                "WS0002": "mark9",
+            }
+        },
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0005": "hurricane",
+                "WS0004": "hurricane",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0015": "pilum_large",
+                "WS0016": "pilum_large",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0017": "belt_macrocannon",
+                "WS0018": "belt_macrocannon",
+                "WS0019": "belt_macrocannon",
+                "WS0020": "belt_macrocannon",
+                "WS0021": "belt_macrocannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS0022": "belt_macrocannon",
+                "WS0023": "belt_macrocannon",
+                "WS0024": "belt_macrocannon",
+                "WS0025": "belt_macrocannon",
+                "WS0026": "belt_macrocannon",
+            }
+        },
+        {
+            "autofire": true,
+            "mode": "LINKED",
+            "weapons": {
+                "WS0003": "shredder",
+                "WS0006": "flak",
+                "WS0007": "flak",
+                "WS0008": "flak",
+                "WS0009": "flak",
+                "WS0011": "lightdualmg",
+                "WS0012": "lightdualmg",
+                "WS0013": "lightdualmg",
+                "WS0014": "lightdualmg",
+            }
+        },
+    ],
+    "wings": [],
+    "modules": [],
+}

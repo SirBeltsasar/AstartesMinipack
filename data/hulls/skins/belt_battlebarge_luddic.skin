@@ -1,0 +1,25 @@
+{
+	"baseHullId":"belt_battlebarge",
+	"skinHullId":"belt_battlebarge_luddic",
+	"hullName":"Fraternitas (LC)",
+	"descriptionId":"belt_battlebarge_luddic",
+	"tags":["LC_bp"],
+	"tech":"Luddic Church",
+	"spriteName":"graphics/ships/belt_battlebarge_luddic.png",
+	"removeWeaponSlots":[], 		# ids
+	"removeEngineSlots":[], 		# indices, as engine slots have no id in the .ship file
+	"removeBuiltInMods":[], 		# hullmod ids
+	"removeBuiltInWeapons":[], 		# weapon slot ids
+	"builtInMods":[],
+	"builtInWeapons":{
+    },
+    	"weaponSlotChanges":{
+		"WS0001":{
+			"type": "BALLISTIC"
+		},
+		"WS0002":{
+			"type": "BALLISTIC"
+		},
+
+	},    
+}

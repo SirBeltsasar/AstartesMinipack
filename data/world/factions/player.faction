@@ -1,0 +1,13 @@
+{
+	"id":"player",
+	"portraits":{
+		"standard_male":[
+			"graphics/portraits/belt_astartes_ba.png",
+			"graphics/portraits/belt_astartes_da.png",
+			"graphics/portraits/belt_astartes_um.png",
+			"graphics/portraits/belt_astartes_if.png",
+		]
+	}
+}
+
+

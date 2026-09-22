@@ -1,0 +1,11 @@
+{
+	
+#WEAPONS
+
+  #BALLISTIC
+  
+	"belt_macrocannon_fire":
+	[
+		{"file":"sounds/sfx_wpn_guns/belt_macrocannon_fire.ogg","pitch":1,"volume":1},
+	],	
+}
