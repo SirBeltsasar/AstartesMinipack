@@ -1,0 +1,19 @@
+Version 1.1.0
+
+-Added Iron Hands portrait
+-Added Thunderhawk fighter LPC with two variants
+-Added single-shot version of the Heavy Mauler for the Thunderhawk
+-Added single-shot version of the Mining Blaster for the Thunderhawk (LC)
+-Added Version Checker support
+-Fixed capitalization of sounds directory
+-Minor sprite and portrait tweaks
+
+Battle Barge:
+-Swapped out Ground Support Package for a semi-custom hullmod (same effect as Advanced Ground Support but with different flavor text)
+-Modified the non-LC standard variant (put Mark IXs in the large hybrid slots to free up OP for Thunderhawk wings)
+-Increased deployment points and maintenance cost to 55
+-Fixed unintentionally high fuel/ly. jump cost
+-Added it to the Hegemony's priority list so it can actually spawn in their markets
+-Removed it from the Mercenary faction
+-Removed the Luddic Church version from the LC blueprint package
+-Added it to sim opponents and title screen variants

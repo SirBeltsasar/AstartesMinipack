@@ -3,4 +3,8 @@ belt_battlebarge,SHIP,"A rare and ancient hull which possesses unusually advance
 belt_battlebarge_luddic,SHIP,"This ship has been given Luddic Church markings, and certain heretical technologies have been stripped out.
 
 A rare and ancient hull which possesses unusually advanced technology for its age. Its history is shrouded in secrecy, but it is said to have once been used by a brotherhood of genetically enhanced warriors known only as the Angels of Death.",,,,
+belt_thunderhawk,SHIP,"An ancient and reliable multi-purpose space/aircraft that's built like a tank and armed like one too, with a modified Heavy Mauler mounted on top. It was originally designed for spec-ops troop insertion and ground support, but it can more than hold its own in space combat.",,,,
+belt_thunderhawk_luddic,SHIP,"An ancient and reliable multi-purpose space/aircraft that's built like a tank and armed like one too, with a modified Mining Blaster mounted on top. It was originally designed for spec-ops troop insertion and ground support, but it can more than hold its own in space combat.",,,,
 belt_macrocannon,WEAPON,"A smaller, more primitive version of the Hellbore. The manual operation of a Macrocannon is a difficult and dangerous affair, the machinery is often etched with the names of those unfortunate crew members who were crushed in the process.",,,,
+belt_heavymauler_fighter,WEAPON,An advanced weapon system designed to punch through armor plating at long-range. Has a low rate of fire but high per-shot damage.,,,,
+belt_miningblaster_fighter,WEAPON,"The miner's best friend, this weapon can deliver a pulverizing bolt of energy at close range. The ore scanner is repurposed as an interlock to prevent excessive use against shields when the weapon is in autofire mode.",,,,

@@ -2,8 +2,8 @@
 	"id":"belt_astartes",
 	"name":"Astartes Minipack",
 	"author":"Belt",
-	"version":{"major":'1', "minor":'0', "patch":'0'},
-	"description":"Adds a Space Marine Battle Barge and some hand-painted portraits.",
+	"version":{"major":'1', "minor":'1', "patch":'0'},
+	"description":"They are my Space Marines and they shall know no fear.",
 	"gameVersion":"0.98a-RC8",
 	"jars":[],
 }

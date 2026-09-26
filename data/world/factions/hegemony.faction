@@ -4,5 +4,15 @@
 		    "belt_battlebarge"
 		],
 	},
+	"priorityShips":{
+		"hulls":[
+			"belt_battlebarge",
+        ],
+	},
+	"knownFighters":{
+		"fighters":[
+			"belt_thunderhawk_wing",
+		],
+	},
 },
 

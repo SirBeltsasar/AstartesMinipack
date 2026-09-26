@@ -3,7 +3,7 @@
 	"skinHullId":"belt_battlebarge_luddic",
 	"hullName":"Fraternitas (LC)",
 	"descriptionId":"belt_battlebarge_luddic",
-	"tags":["LC_bp"],
+	"tags":["rare_bp"],
 	"tech":"Luddic Church",
 	"spriteName":"graphics/ships/belt_battlebarge_luddic.png",
 	"removeWeaponSlots":[], 		# ids

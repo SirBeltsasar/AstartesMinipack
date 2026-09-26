@@ -5,11 +5,11 @@
     "modVersion":
     {
         "major":1,
-        "minor":0,
+        "minor":1,
         "patch":0
     },
 
-    "directDownloadURL":"https://drive.google.com/uc?export=download&id=1ANiXX8vidc9fZZAhuo2cMJk2tk-ZtnTd",
+    "directDownloadURL":"https://github.com/SirBeltsasar/AstartesMinipack/releases/latest/download/AstartesMinipack.zip",
 
     "changelogURL":"https://raw.githubusercontent.com/SirBeltsasar/AstartesMinipack/refs/heads/main/changelog.txt"
 }

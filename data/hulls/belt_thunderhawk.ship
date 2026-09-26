@@ -1,0 +1,86 @@
+{
+  "hullName": "Thunderhawk",
+  "hullId": "belt_thunderhawk",
+  "hullSize": "FIGHTER",
+  "spriteName": "graphics/ships/belt_thunderhawk.png",
+  "style": "LOW_TECH",
+  "height": 57,
+  "width": 50,
+  "center": [25, 28],
+  "collisionRadius": 27.5,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 32.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HIDDEN",
+      "arc": 90,
+      "angle": 0,
+      "locations": [19, 0]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "HIDDEN",
+      "arc": 10,
+      "angle": 0,
+      "locations": [2, 0]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "HIDDEN",
+      "arc": 10,
+      "angle": 0,
+      "locations": [-9, 15.5]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "HIDDEN",
+      "arc": 10,
+      "angle": -0,
+      "locations": [-9, -15.5]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-18, -9.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-18, 9.5],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-27, 0],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -6.5, -22.5,
+    2.5, -8,
+    29, 0,
+    2.5, 8,
+    -6.5, 22.5,
+    -27, -0
+  ]
+}

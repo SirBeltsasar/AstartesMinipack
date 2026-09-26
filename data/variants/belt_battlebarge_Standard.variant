@@ -20,8 +20,8 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS0001": "multineedler",
-                "WS0002": "multineedler",
+                "WS0001": "mark9",
+                "WS0002": "mark9",
             }
         },
         {
@@ -79,8 +79,8 @@
         },
     ],
     "wings": [
-        "hoplon_wing",
-        "broadsword_wing",
+        "belt_thunderhawk_wing",
+        "belt_thunderhawk_wing",
     ],
     "modules": [],
 }

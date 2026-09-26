@@ -4,5 +4,10 @@
 		    "belt_battlebarge_luddic"
 		],
 	},
+	"knownFighters":{
+		"fighters":[
+			"belt_thunderhawk_luddic_wing",
+		],
+	},
 },
 
